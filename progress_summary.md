@@ -16,17 +16,15 @@ Summary of :
        - [link to poster](https://gdsc.community.dev/j/bgqeuuserywx9/)  
        - [link to videos](https://www.youtube.com/watch?v=ZkFlbFqrp0Y) 
        - [link to notes](https://github.com/RustaceansKenya/driver-development-book)   
-    The videos on youtube are incomplete. While editing them I realized that I was wrong in some explanations. I would not wish to spread rumours. 
+    The videos on youtube are incomplete. While editing them, I realized that I was vague explanations on a major concept (ie The ABI). I would not wish to spread rumours.  
     It's better to just write a book that can be corrected any time.  
-    (I explained ABI wrongly... I still do not know the scope of what ABI entails haha)
-
   
 
 ## Fund Usage
 
-Recent funds (2) :
-    - one for December
-    - one for February
+Recent funds (2) :  
+- one for December
+- one for February
 
 ### December Fund
 
@@ -42,9 +40,9 @@ Recent funds (2) :
 The money was spent on the Physical meetup at Africa's Talking. (2nd Dec 2023)  
 Office space was provided by Africa's Talking, a co-sponsor.  
 
-Event image links :  
-- [twitter](https://twitter.com/RustaceansKenya/status/1731936493269090570?t=nM9AGHNBRiLt8P3LtqG8_A&s=19)
-- [github](https://github.com/RustaceansKenya/Events/discussions/2)
+Relevant links :  
+- [twitter pics](https://twitter.com/RustaceansKenya/status/1731936493269090570?t=nM9AGHNBRiLt8P3LtqG8_A&s=19)
+- [Meeting agenda, timeline plus conclusions](https://github.com/RustaceansKenya/Events/discussions/2)
 
 
 
